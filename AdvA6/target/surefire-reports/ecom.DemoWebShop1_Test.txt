@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ecom.DemoWebShop1_Test
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.833 s -- in ecom.DemoWebShop1_Test
